@@ -3,5 +3,3 @@ const x = 7;
 let y = 10;
 let z = 9;
 //replaced value
-let a = 1;
-// Test how repository works
