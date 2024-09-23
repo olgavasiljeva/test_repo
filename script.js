@@ -3,4 +3,5 @@ const x = 7;
 let y = 10;
 let z = 9;
 //replaced value  + UPD main
-let y = 1;
+let y = 1; 
+// test commit
