@@ -132,5 +132,5 @@ dist
 # MacOS System files
 .DS_Store
 
-# Other
+# Other files
 help.md
